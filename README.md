@@ -5,3 +5,6 @@ Installazione:
 2) Inserire i valori nei file dove è indicato (index.php, config.php, comandi.php)
 3) Settare il webhook
 4) Aprire 'dominio/cartella/index.php?install=true'
+
+
+Per effettuare un test del codice usa t.me/gerryscottimeme_bot.
